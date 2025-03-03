@@ -1,3 +1,3 @@
 # Kunpeng-Xu
-徐坤朋
+Kunpeng Xu
 email：XuKunpeng@mail.ustc.edu.cn
